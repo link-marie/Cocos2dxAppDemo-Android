@@ -4,6 +4,11 @@ This project is a framework of [Cocos2d-x](http://www.cocos2d-x.org/) applicatio
 
 You can use this framework to make your application to start with.
 
+[![Play Store Badge](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.linknext.cocos2dx)
+
+[Greatworks](https://play.google.com/store/apps/details?id=com.linknext.cocos2dx)
+
+
 # Features
 - Cocos2d-x development base framework
 - Multiple screen resolution support
@@ -11,7 +16,7 @@ You can use this framework to make your application to start with.
 
 # What you can learn with the source codes
 - Usage of image handling
-- Event handlings
+- Event handling
 - Atlas loader example
 - JNI (Java - C++ interface) examples
 - Easy logging macros
